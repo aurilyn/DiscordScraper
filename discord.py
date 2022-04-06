@@ -18,4 +18,4 @@ def retrieve_message(channel_id):
                 if text[0] != '<':
                     print(text)
 
-retrieve_message('877375592369111160')
+retrieve_message('')
